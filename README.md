@@ -3,6 +3,8 @@ JapanContainerDays v18.12
 
 ## OpenCensusとJaegerで分散トレーシングを見てみよう
 
+[slide](http://nbviewer.jupyter.org/format/slides/github/grimrose/japan-container-days-1812/blob/master/slide.ipynb#/)
+
 ### requirements
 
 * pipenv
